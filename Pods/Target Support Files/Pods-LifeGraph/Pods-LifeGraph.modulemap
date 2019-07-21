@@ -1,0 +1,6 @@
+framework module Pods_LifeGraph {
+  umbrella header "Pods-LifeGraph-umbrella.h"
+
+  export *
+  module * { export * }
+}
