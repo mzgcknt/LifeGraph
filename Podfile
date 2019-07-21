@@ -6,6 +6,7 @@ target 'LifeGraph' do
   use_frameworks!
   pod "Charts"
   pod "ChartsRealm"
+  pod "SwiftLint"
 
   # Pods for LifeGraph
 

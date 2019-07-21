@@ -10,10 +10,12 @@ PODS:
   - Realm/Headers (3.15.0)
   - RealmSwift (3.15.0):
     - Realm (= 3.15.0)
+  - SwiftLint (0.33.1)
 
 DEPENDENCIES:
   - Charts
   - ChartsRealm
+  - SwiftLint
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -21,13 +23,15 @@ SPEC REPOS:
     - ChartsRealm
     - Realm
     - RealmSwift
+    - SwiftLint
 
 SPEC CHECKSUMS:
   Charts: e0dd4cd8f257bccf98407b58183ddca8e8d5b578
   ChartsRealm: cb13811d8dd54741688ce057dce3e2f7ae1b5ce1
   Realm: 9b834e1be6062f544805252c812348872dc5d4ed
   RealmSwift: 8a41886f8ab6efef9eb8df97de2f2bb911561a79
+  SwiftLint: 9fc1143bbacec37f94994a7d0d2a85b2154b6294
 
-PODFILE CHECKSUM: d6d5f6baba6eb9b74a29370ff95400ec72675779
+PODFILE CHECKSUM: 410b880b46466b10b228c0dc0ad982acc18d566c
 
 COCOAPODS: 1.6.1
